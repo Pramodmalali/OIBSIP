@@ -1,2 +1,1 @@
-# OIBSIP
-Oasis infobyte Webdevelopment and design intership
+# oasis-intership-task-1-landing-page

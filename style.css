@@ -1,0 +1,27 @@
+body{
+    padding: 50px 100px;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+}
+#container{
+    text-align: center;
+    background-image: linear-gradient(rgb(35, 36, 48), rgb(154, 106, 64));
+    padding:50px;
+}
+.input-div{
+    display: inline-block;
+}
+.inp{
+    padding: 5px 10px;
+    margin:10px;
+    font-size:30px;
+    font-weight: bold;
+    width: 250px;
+    text-align: center;
+}
+label{
+    font-size: 32px;
+    font-weight: bold;
+}
